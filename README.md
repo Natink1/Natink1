@@ -38,12 +38,11 @@
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Contribution Metrics
+If you want a live visual layout, this official, alternate Vercel server works perfectly for your username:
 
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Natink1&theme=dark" alt="Natnael's 3D Contributions" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natink1&theme=radial" alt="Natnael's GitHub Streak" />
 </p>
-
 ---
 
 ### 💡 Developer Mindset
