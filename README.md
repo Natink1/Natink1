@@ -1,4 +1,4 @@
-[# Hi 👋, I'm Natnael Deribe
+# Hi 👋, I'm Natnael Deribe
 
 **Backend Developer | IT Support Specialist | Creative Designer**  
 *“Solutions over complaints. Built with a Laravel mind, designed with care.”*
