@@ -40,12 +40,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natink1&show_icons=true&theme=radial&count_private=true&cache_seconds=1800" alt="Natnael's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natink1&layout=compact&theme=radial&cache_seconds=1800" alt="Top Languages" height="195px" />
+  <img src="https://github-readme-stats-six-sigma.vercel.app/api?username=Natink1&show_icons=true&theme=radial&count_private=true" alt="Natnael's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats-six-sigma.vercel.app/api/top-langs/?username=Natink1&layout=compact&theme=radial" alt="Top Languages" height="195px" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natink1&theme=radial" alt="Natnael's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natink1&theme=dark" alt="Natnael's GitHub Streak" />
 </p>
 ---
 
