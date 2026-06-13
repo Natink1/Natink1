@@ -41,10 +41,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natink1&theme=dark" alt="Natnael's GitHub Streak" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=Natink1&show_icons=true&theme=radial&count_private=true" alt="Natnael's GitHub Stats" height="195px" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Natink1&layout=compact&theme=radial" alt="Top Languages" height="195px" />
-</p>
+</p> -->
 
 ---
 
