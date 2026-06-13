@@ -1,59 +1,59 @@
-# Hi there, I'm Natnael Deribe 👋
-**Backend Developer | IT Support Specialist | Creative Designer**
+# Hi 👋, I'm Natnael Deribe
 
-I build reliable backend systems, support critical IT infrastructure, and design clean visual identities. I am a Computer Science graduate from **Addis Ababa University** (coursework complete, awaiting exit exam) and hold a **Gold Medal** from the Ethiopia TVET Agency in Hardware & Networking. 
-
-With 5+ years of hands-on experience in tech, I bridge the gap between robust software engineering, system administration, and multimedia design.
+**Backend Developer | IT Support Specialist | Creative Designer**  
+*“Solutions over complaints. Built with a Laravel mind, designed with care.”*
 
 ---
 
-### 🥇 Highlights & Recognition
-*   **Gold Medalist** – Awarded by the Ethiopia TVET Agency for exceptional performance in Hardware & Networking.
-*   **5+ Years in Tech** – Spanning enterprise IT support, network administration, and full-cycle backend engineering.
-*   **20+ Projects Delivered** – Across web systems, production-grade APIs, and physical IT infrastructure deployments.
+### 🚀 About Me
+
+- 🥇 **Gold Medalist** awarded by the Ethiopia TVET Agency for Hardware & Networking
+- 🎓 Computer Science Graduate from **Addis Ababa University** *(Coursework Complete | Awaiting Exit Exam)*
+- 💻 **5+ Years in Tech** bridging production backend architecture and enterprise IT infrastructure
+- 🔧 Focused on **Laravel**, high-performance REST APIs, and database modeling
+- 🎨 Passionate about visual systems, motion graphics, and 3D modeling as a secondary discipline
+- 💼 Currently working at **Droga Consulting PLC** as a Tech Support Rep & Backend Developer
 
 ---
 
-### 🛠 Tech Stack & Core Disciplines
+### 🛠 Languages & Tools
 
-#### 01. Backend Development
-*   **Languages & Frameworks:** PHP, Laravel, Node.js, MVC Architecture
-*   **Database & Architecture:** MySQL, Database Modeling & Migrations, RESTful API Design (Token Auth, Versioning, Rate Limiting)
-*   **System Features:** Role-Based Access Control (RBAC), Admin Dashboards, Audit Logs & Analytics
+#### 📂 Backend & Databases
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 02. IT Systems & Infrastructure
-*   **Administration:** Linux (Ubuntu), Server & Database Admin, Odoo ERP, Biotime Integration
-*   **Networking & Security:** Office Network Deployments (Routers/Switches/APs), IP CCTV Camera Deployments (NVR, Storage Planning), Biometric Attendance Systems
+#### 🐧 IT Systems & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
-#### 03. Creative Design & Branding
-*   **Tools:** Adobe Photoshop, Illustrator, After Effects, Blender
-*   **Expertise:** Logo Design, Brand Identity Systems, Kinetic Typography, Motion Graphics & 3D Modeling
-
----
-
-### 🚀 Featured Work & Projects
-
-*   **Laravel Business Management Platform:** End-to-end enterprise system featuring robust inventory modules, detailed financial reporting, and strict role-based access.
-*   **Token-Authenticated REST API:** Highly secure, versioned, and rate-limited backend engine powering external web and mobile clients.
-*   **Enterprise IT Rollouts:** Designed and deployed physical networks, full-perimeter security camera systems, and integrated biometric attendance tracking software for corporate environments.
-
----
-
-### 💼 Professional Journey
-*   **Technical Support Representative & Laravel Backend Developer** | *Droga Consulting PLC* (2024 — Present)
-*   **IT Officer** | *Droga Pharma PLC* (2022 — 2024)
-*   **Intern** | *Addis Media Network* (2019 — 2020)
+#### 🎨 Creative Design & Multimedia
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-![Natnael's Stats](https://github-readme-stats.vercel.app/api?username=Natink1&show_icons=true&theme=radial&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natink1&layout=compact&theme=radial)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Natink1&show_icons=true&theme=radial&count_private=true" alt="Natnael's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natink1&layout=compact&theme=radial" alt="Top Languages" height="195px" />
+</p>
+
+---
+
+### 💡 Developer Mindset
+
+> "Engineering reliable systems, designing clean ones."
 
 ---
 
 ### 📫 Connect With Me
-*   **LinkedIn:** [linkedin.com/in/natnael-deribe/](https://www.linkedin.com/in/natnael-deribe/)
-*   **Location:** Addis Ababa, Ethiopia
 
-*“Solutions over complaints. Built with a Laravel mind, designed with care.”*
+🌐 **LinkedIn:** [linkedin.com/in/natnael-deribe](https://www.linkedin.com/in/natnael-deribe/)  
+📍 **Location:** Addis Ababa, Ethiopia  
+📧 **Email:** natnael.deribe@example.com
