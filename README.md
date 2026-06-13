@@ -1,4 +1,4 @@
-# Hi 👋, I'm Natnael Deribe
+[# Hi 👋, I'm Natnael Deribe
 
 **Backend Developer | IT Support Specialist | Creative Designer**  
 *“Solutions over complaints. Built with a Laravel mind, designed with care.”*
@@ -54,3 +54,4 @@
 🌐 **LinkedIn:** [linkedin.com/in/natnael-deribe](https://www.linkedin.com/in/natnael-deribe/)  
 📍 **Location:** Addis Ababa, Ethiopia  
 📧 **Email:** natink4825@gmail.com
+](https://t.me/Natink48)
