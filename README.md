@@ -1,39 +1,59 @@
 # Hi there, I'm Natnael Deribe 👋
+**Backend Developer | IT Support Specialist | Creative Designer**
 
-I am a Computer Science student at Addis Ababa University and an IT professional with a background in technical support, system administration, and backend development. I’m passionate about building scalable, secure, and user-friendly web applications.
+I build reliable backend systems, support critical IT infrastructure, and design clean visual identities. I am a Computer Science graduate from **Addis Ababa University** (coursework complete, awaiting exit exam) and hold a **Gold Medal** from the Ethiopia TVET Agency in Hardware & Networking. 
 
-### 🚀 About Me
-- 🎓 **Education:** Final year Computer Science student at **Addis Ababa University**.
-- 💻 **Core Focus:** Backend Web Development with a focus on **Laravel** and **Node.js**.
-- 🐧 **OS Preference:** Ubuntu Linux (I thrive in the terminal environment).
-- 🎨 **Creative Tech:** Experienced in Adobe Creative Cloud (Illustrator, Photoshop, After Effects) and Blender.
-- ⚙️ **Current Projects:** Building an e-commerce platform and a SACCO management system.
-- 💬 **Goal:** Transitioning from technical support into a full-time role as a Backend Developer.
+With 5+ years of hands-on experience in tech, I bridge the gap between robust software engineering, system administration, and multimedia design.
 
 ---
 
-### 🛠 Tech Stack
-#### Backend & Web
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 🥇 Highlights & Recognition
+*   **Gold Medalist** – Awarded by the Ethiopia TVET Agency for exceptional performance in Hardware & Networking.
+*   **5+ Years in Tech** – Spanning enterprise IT support, network administration, and full-cycle backend engineering.
+*   **20+ Projects Delivered** – Across web systems, production-grade APIs, and physical IT infrastructure deployments.
 
-#### System & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+---
 
-#### Design & Multimedia
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+### 🛠 Tech Stack & Core Disciplines
+
+#### 01. Backend Development
+*   **Languages & Frameworks:** PHP, Laravel, Node.js, MVC Architecture
+*   **Database & Architecture:** MySQL, Database Modeling & Migrations, RESTful API Design (Token Auth, Versioning, Rate Limiting)
+*   **System Features:** Role-Based Access Control (RBAC), Admin Dashboards, Audit Logs & Analytics
+
+#### 02. IT Systems & Infrastructure
+*   **Administration:** Linux (Ubuntu), Server & Database Admin, Odoo ERP, Biotime Integration
+*   **Networking & Security:** Office Network Deployments (Routers/Switches/APs), IP CCTV Camera Deployments (NVR, Storage Planning), Biometric Attendance Systems
+
+#### 03. Creative Design & Branding
+*   **Tools:** Adobe Photoshop, Illustrator, After Effects, Blender
+*   **Expertise:** Logo Design, Brand Identity Systems, Kinetic Typography, Motion Graphics & 3D Modeling
+
+---
+
+### 🚀 Featured Work & Projects
+
+*   **Laravel Business Management Platform:** End-to-end enterprise system featuring robust inventory modules, detailed financial reporting, and strict role-based access.
+*   **Token-Authenticated REST API:** Highly secure, versioned, and rate-limited backend engine powering external web and mobile clients.
+*   **Enterprise IT Rollouts:** Designed and deployed physical networks, full-perimeter security camera systems, and integrated biometric attendance tracking software for corporate environments.
+
+---
+
+### 💼 Professional Journey
+*   **Technical Support Representative & Laravel Backend Developer** | *Droga Consulting PLC* (2024 — Present)
+*   **IT Officer** | *Droga Pharma PLC* (2022 — 2024)
+*   **Intern** | *Addis Media Network* (2019 — 2020)
 
 ---
 
 ### 📊 GitHub Stats
-![Natnael's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Natnael's Stats](https://github-readme-stats.vercel.app/api?username=Natink1&show_icons=true&theme=radial&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natink1&layout=compact&theme=radial)
 
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/natnael-deribe/](https://www.linkedin.com/in/natnael-deribe/)
+*   **LinkedIn:** [linkedin.com/in/natnael-deribe/](https://www.linkedin.com/in/natnael-deribe/)
+*   **Location:** Addis Ababa, Ethiopia
 
-*“Solutions over complaints.”*
+*“Solutions over complaints. Built with a Laravel mind, designed with care.”*
