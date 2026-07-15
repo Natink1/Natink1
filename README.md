@@ -1,3 +1,13 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img
+    alt="Natnael Deribe GitHub profile banner"
+    src="./assets/dark.svg"
+    width="100%"
+  >
+</picture>
+
 # Hi 👋, I'm Natnael Deribe
 
 **Backend Developer | IT Support Specialist | Creative Designer**  
