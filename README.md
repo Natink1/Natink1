@@ -1,4 +1,4 @@
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
   <img
@@ -6,14 +6,14 @@
     src="./assets/dark.svg"
     width="100%"
   >
-</picture>
+</picture> -->
 
-<!-- # Hi 👋, I'm Natnael Deribe
+Hi 👋, I'm Natnael Deribe
 
 **Backend Developer | IT Support Specialist | Creative Designer**  
 *“Solutions over complaints. Built with a Laravel mind, designed with care.”*
 
---- -->
+
 
 ### 🚀 About Me
 
