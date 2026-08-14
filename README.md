@@ -8,12 +8,6 @@
   >
 </picture>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/bomberman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/bomberman.svg">
-    <img alt="bomberman contribution graph" src="assets/bomberman.svg">
-</picture>
-
 <!-- # Hi 👋, I'm Natnael Deribe
 
 **Backend Developer | IT Support Specialist | Creative Designer**  
