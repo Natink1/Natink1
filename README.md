@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
   <img
-    alt="Natnael Deribe GitHub profile"
+    alt="Natnael Deribe GitHub"
     src="./assets/dark.svg"
     width="100%"
   >
