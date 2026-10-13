@@ -18,7 +18,7 @@ Hi 👋, I'm Natnael Deribe
 ### 🚀 About Me
 
 - 🥇 **Gold Medalist** awarded by the Ethiopia TVET Agency for Hardware & Networking
-- 🎓 Computer Science Graduate from **Addis Ababa University** *(Coursework Complete | Awaiting Exit Exam)*
+- 🎓 Computer Science Graduate from **Addis Ababa University** 
 - 💻 **4+ Years in Tech** bridging production backend architecture and enterprise IT infrastructure
 - 🔧 Focused on **Laravel**, high-performance REST APIs, and database modeling
 - 🎨 Passionate about visual systems, motion graphics, and 3D modeling as a secondary discipline
